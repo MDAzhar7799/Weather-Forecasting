@@ -9,12 +9,15 @@ Full-Stack Architecture: Clean separation of concerns between AI logic and UI.
 Deep Learning Model: Multivariate LSTM architecture for time-series forecasting.
 Premium Dashboard: Custom-built UI with Glassmorphism, dynamic charts, and metrics.
 Modern DevOps: Fully containerized with Docker and GitHub Actions for automated builds.
+
+
 🛠 Tech Stack
 Backend: FastAPI (Python), Uvicorn, Jinja2
 Deep Learning: TensorFlow, Scikit-Learn (MinMaxScaler)
 Data Engineering: Pandas, NumPy
 Frontend: HTML5, CSS3, Vanilla JavaScript, Chart.js
 DevOps: Docker, GitHub Actions
+
 📦 Setup & Installation
 Local Execution (Standard)
 Install dependencies:
